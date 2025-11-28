@@ -13,6 +13,6 @@ jobs:
         uses: peter-evans/repository-dispatch@v3
         with:
           token: ${{ secrets.PAT_TOKEN }}
-          repository: gabrielchoong/hugo
+          repository: gabrielchoong/blog
           event-type: content_updated
           client-payload: '{"ref": "${{ github.ref }}", "sha": "${{ github.sha }}"}'
