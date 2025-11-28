@@ -2,6 +2,7 @@
 date = '2025-11-27T01:59:31+08:00'
 draft = true
 title = 'Job Application'
+tag = 'career'
 +++
 
 ## Job Application
