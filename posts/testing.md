@@ -1,8 +1,9 @@
-+++
-date = '2025-11-28T18:42:18+08:00'
-draft = true
-title = 'testing'
-+++
+---
+date: '2025-11-28T18:42:18+08:00'
+draft: true
+title: 'testing'
+tags: ['test']
+---
 
 ## Real devs test in production
 
