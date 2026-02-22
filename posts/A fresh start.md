@@ -1,6 +1,6 @@
 ---
 date: 2026-02-22T13:32:05+08:00
-draft: true
+draft: false
 title: A fresh start
 tags:
   - life-update
