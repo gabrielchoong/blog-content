@@ -11,6 +11,7 @@ Hi, I'm Gabriel. I'm a Software Developer and an AI Engineer.
 
 ## My Setup
 
-- **OS:** Fedora Asahi Remix
-- **SH:** Bash
-- **Editor:** NeoVim
+- **OS:** macOS 15.7.4
+- **SH:** zsh
+- **Editor:** vi-based editor + Visual Studio Code
+- **Terminal:** WezTerm
